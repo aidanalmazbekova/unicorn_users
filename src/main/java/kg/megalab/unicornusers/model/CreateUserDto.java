@@ -1,7 +1,7 @@
 package kg.megalab.unicornusers.model;
 
 public record CreateUserDto(
-        String userName,
+        String username,
         String password,
         String email,
         String firstName,
